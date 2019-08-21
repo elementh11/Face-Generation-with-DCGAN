@@ -18,3 +18,5 @@ The project requires PyTorch and torchvision in order to run. The prerequisites 
 ### pip
 
 To install torchvision with pip, you can issue `pip install torchvision`.
+
+![Processed CelebA face data](processed-face-data.png "Processed CelebA face data")
